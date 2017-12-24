@@ -1,0 +1,16 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+6GaussianElimination.py	../6GaussianElimination.py	1;"	kind:file	line:1
+7IterativeMethodsForLinearEq.py	../7IterativeMethodsForLinearEq.py	1;"	kind:file	line:1
+a	../6GaussianElimination.py	/^     [0.,0.,0.,-9.,0.,0.,0.,-2.,29.]]$/;"	kind:variable	line:53
+a	../7IterativeMethodsForLinearEq.py	/^     [0.,0.,0.,-9.,0.,0.,0.,-2.,29.]]$/;"	kind:variable	line:9
+b	../6GaussianElimination.py	/^b = [-15.,27.,-23.,0.,-20.,12.,-7.,7.,10]$/;"	kind:variable	line:54
+b	../7IterativeMethodsForLinearEq.py	/^b = [-15.,27.,-23.,0.,-20.,12.,-7.,7.,10]$/;"	kind:variable	line:10
+elimination	../6GaussianElimination.py	/^def elimination(a, b):$/;"	kind:function	line:16
+principle	../6GaussianElimination.py	/^def principle(a, t):$/;"	kind:function	line:1
+solve	../6GaussianElimination.py	/^def solve(a, b):$/;"	kind:function	line:33
+x	../6GaussianElimination.py	/^x = solve(ae,be)$/;"	kind:variable	line:56
