@@ -18,7 +18,7 @@ int main(){
             yn1=yn+             h/8.*(k1+3*k2*3*k3+k4);
             yn=yn1;
         }        
-        cout<<"h="<<h<<",err="<<fabs(yn-concise);
+        cout<<"h="<<h<<",err="<<abs(yn-concise);
         if(l==0){
             es=fabs(yn-concise);
             cout<<endl;

@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.C": "cpp",
+        "cmath": "cpp",
+        "cstdlib": "cpp"
+    }
+}
